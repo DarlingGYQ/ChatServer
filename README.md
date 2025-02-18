@@ -1,5 +1,5 @@
 # chatserver
-# C++集群聊天服务器项目总概述
+# C++集群聊天服务器项目概述
 
 基于C++11的可以工作在nginx tcp负载均衡环境中的集群聊天服务器和客户端
 
@@ -84,3 +84,6 @@ windows+vscode配置远程linux开发环境
 3. 配置远程linux主机的信息
 
 4. 在vscode上开发远程连接linux
+
+也可以访问以下地址进行学习，对于每部分有较为详细的解释
+https://blog.csdn.net/m0_74795952/article/details/145707758?spm=1001.2014.3001.5501
